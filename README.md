@@ -1,6 +1,6 @@
-This is a bundle with Typescript, Bootstrap Beta 4, SCSS and Webpack Bundle to easy start with that packages.
+This is a bundle with Typescript, Bootstrap Beta 4, SCSS and Webpack Bundle to easy start programming with that packages.
 
-Installattion
+Installation
 
 - npm install
 - npm run build
@@ -8,3 +8,6 @@ Installattion
 ToDo
 
 - run local webserver and open the index.html
+- ...
+
+Have fun :)
